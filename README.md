@@ -1,2 +1,2 @@
 # Los-Angeles-Clippers
-Learn about this basketball team!
+Learn about this basketball team
